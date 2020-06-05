@@ -20,12 +20,14 @@ Having spent all this time in tech and having previous interest outside of my em
 
 My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare.
 These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required.
+
 [Makers Environment and Support](https://youtu.be/SxauFp4NKOM)
 
 #### Software and Hardware Troubleshooting and Testing
 
 During my time at both Makers and Buzz Radar, I spent extensive time testing and troubleshooting hardware. That allowed me to learn more about technology I was using but also meant that I would be able to aid with any other issues like this in the future.
 In the past, I attended CES in Las Vegas to provide both hardware and software troubleshooting support to the team and with my understanding of code, I was able to troubleshoot more software related issues onsite and provide tangible and concise information back to the developers back in the UK so that they could repair the issue remotely.
+
 [A brief introduction into Buzz Radar](https://youtu.be/OZNPuzuDw8Q)
 
 ## Education
@@ -65,8 +67,8 @@ Customer Support Associate for all initial enquiries through phone, email or off
 *Customer Support Champion*  
 Customer Support Manager and Support Lead for all bespoke Buzz Radar related properties both SaaS and hardware related support.
 - CRM lead & Primary support for existing customers running 24/7 SaaS system integrations in both office spaces as well as end customer facing stores and outlets.
-- CRM and Knowledgebase management for all processes and support for bespoke Buzz Radar platform.
-- Implemented, tested and managed live chat system with integrated bot and knowledgebase.
+- CRM and Knowledge base management for all processes and support for bespoke Buzz Radar platform.
+- Implemented, tested and managed live chat system with integrated bot and knowledge base.
 - Supporting the internal development team with bug fixes as well as suggesting design elements ideas that suit the needs of the customers.
 - Supporting the development team with testing of new products and features during design and development phase of the SaaS products.
 
