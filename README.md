@@ -1,7 +1,5 @@
 ## Joshua Ng
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
 #### Aspiring Future Junior Software Developer
 
 Current student at Makers Software Development bootcamp, I was a customer support specialist working in a wide variety of fields from retail to client facing roles in tech and tech education.
@@ -32,7 +30,7 @@ In the past, I attended CES in Las Vegas to provide both hardware and software t
 
 ## Education
 
-#### Makers Coding Bootcamp: May 2020
+#### Makers Coding Bootcamp: May 2020 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
