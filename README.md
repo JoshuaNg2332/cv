@@ -26,9 +26,9 @@ Learning how to apply industry-standard best practices to write *clean code* to 
   - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
   - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
 
-### University of Hertfordshire 
+### University of Hertfordshire (2011 - 2014)
 
-#### BSc Multimedia Technology (2011 - 2014)
+#### BSc Multimedia Technology 
 
 **C#**, **C++**, **Java**, **Javascript**, **MatLab**, **.net Framework** 
 Software development with some Computer Science fundimentals: **PC Architecture**, **Operating Systems**, **OOP**, **Networking**
@@ -46,10 +46,11 @@ The degree also consisted of:
 
 ## Experience
 
-**Makers** (2018 to 2020)    
-*Customer Support Associate*  
+### Makers (2018 to 2020)    
+#### *Customer Support Associate*  
 
-- Customer Support Associate for all initial enquiries through phone, email or office visits.
+Customer Support Associate for all initial enquiries through phone, email or office visits.
+
 - First point of contact for customers through initial meetings and office tours.
 - Supporting existing students through face-to-face interaction or through support related channels such as Slack.
 - Supporting team members for company wide events that are held both internally & externally.
@@ -60,9 +61,11 @@ The degree also consisted of:
 - Using tools such as **Hubspot**, **Groove** and **Google Business Suite** to streamline customer and student communication.
 - Additional tools such as **Gimp**, **Open Broadcaster** & **DaVinci Resolve** are used for creating and editing assets as well as streaming live content to a wider audience.
 
-**Buzz Radar** (2016 to 2018)   
-*Customer Support Champion*  
+### Buzz Radar (2016 to 2018)   
+#### *Customer Support Champion*  
+
 Customer Support Manager and Support Lead for all bespoke Buzz Radar related properties both SaaS and hardware related support.
+
 - CRM lead & Primary support for existing customers running 24/7 SaaS system integrations in both office spaces as well as end customer facing stores and outlets.
 - CRM and Knowledge base management for all processes and support for bespoke Buzz Radar platform.
 - Implemented, tested and managed live chat system with integrated bot and knowledge base.
