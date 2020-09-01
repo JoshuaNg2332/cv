@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github-square.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/JoshuaNg2332)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/joshua-ng-099a0463/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/JoshuaNg2332/)
+[<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/JoshuaNg2332)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/joshua-ng-099a0463/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/JoshuaNg2332/)
 
 <em>
 Why a developer? I want to build cool things, solve challenging problems and one day mentor and help people in an industry I love!<br>
