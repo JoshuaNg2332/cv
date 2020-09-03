@@ -13,26 +13,31 @@ Why me? <br>
 I'm ready to jump into any challenge. Learning and growing is the aim of the game so that I can one day help others learn and grow.
 </em>
 </div>
+<br>
 
 ## About Me
 
 Prior to being a graduate from the Makers Software Development bootcamp, I was a customer support specialist working in a wide variety of fields from retail to client facing roles in tech and tech education.
 
-In this time, I've also worked to help inform and advise over 300 potential students into taking a leap of faith and join Makers as students. This enabled them to gain the confidence and the skills to transition into a role as a Software Developer and change their lives. This included the support I provided to the team but also allowed me to work on the webcasting and live streaming of content which aided the business with widespread event coverage.
 
 I'm extremely keen to bring my widespread knowledge of different technologies and client facing experience into tech that will undoubtedly help shape how I build and develop new software.
 
 Having spent all this time in tech and having previous interest outside of my employment in tech has only ever drawn me closer into wanting to learn how to build and develop these technologies and the idea that I can be a part of building something that someone might use and love is something that excites me greatly.
+<br>
+<br>
 
+## Projects
+
+| Project | Description | Technologies |
+|-|-|-|
+| [Spotivibes](https://github.com/mirimichaelson/spotiVibes) | Our Makers final project. Built to help you find music that matches your mood, we encorporated keyword sentiment analysis and image recognition to help you find a song that matches your mood. <br> You can find the project deployed [here](http://spotivibes.surge.sh/).  | NodeJS, ExpressJS, React, HTML, CSS, Spotify Web API, Google Natural Language Sentiment API and Google Cloud Vision API |
+| [Acebook](https://github.com/jamesAforster/acebook-JIMJI) | During this group project, we were asked to create a Facebook clone. During this project we focused on agile working styles and how they fit into our teams as well as understanding how to build our first Ruby on Rails project. | Ruby on Rails, HTML and SCSS, Bootstrap, Travis CI, RSpec and Capybara |
+| [Bank Tech Test](https://github.com/JoshuaNg2332/bank-tech-test) | This was a practice tech test during Week 10 of the Makers course where we had to create a vitual bank. <br> A key focus during this project was to work on my planning and documentation of the project. | Ruby, HTML |
+----
+<br>
+<br>
 
 ## Skills
-
-#### Client Support & Training
-
-My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare.
-These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required.
-
-[Makers Environment and Support](https://youtu.be/SxauFp4NKOM)
 
 #### Software and Hardware Troubleshooting and Testing
 
@@ -41,7 +46,14 @@ In the past, I attended CES in Las Vegas to provide both hardware and software t
 
 [A brief introduction into Buzz Radar](https://youtu.be/OZNPuzuDw8Q)
 
+#### Client Support & Training
 
+My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare.
+These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required.
+
+[Makers Environment and Support](https://youtu.be/SxauFp4NKOM)
+<br>
+<br>
 ## Education
 
 ### Makers Coding Bootcamp (May 2020 - August 2020)
@@ -51,7 +63,7 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 - **Applying industry-standard practices:**
   - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Jest**
   - *Learning skills to become programming language agnostic using:* **Ruby**, **Rails**, **Javascript**, **NodeJS**, **Express**, **React**, **HTML5/CSS**
-  - **User Stories**, **Domain Modelling**: **CRC**, **UML**, **Wireframs** diagrams
+  - **User Stories**, **Domain Modelling**: **CRC**, **UML**, **Wireframes** diagrams
   - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **simplecov**
   - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
   - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
@@ -65,14 +77,16 @@ Software development with some Computer Science fundimentals: **PC Architecture*
 
 The degree also consisted of:
 
-- Film and TV production 
-  - Sound and psychoacoustics
-  - Broadcast media and webcasting
-
 - Product/User design and development
   - Product/Market research
   - User modelling
   - Storyboarding
+
+- Film and TV production 
+  - Sound and psychoacoustics
+  - Broadcast media and webcasting
+
+<br>
 
 ## Experience
 
@@ -100,9 +114,12 @@ Customer support manager and support lead for all bespoke Buzz Radar related pro
 - Supporting the internal development team with bug fixes as well as suggesting design elements ideas that suit the needs of the customers.
 - Supporting the development team with testing of new products and features during design and development phase of the SaaS products.
 
+<br>
+
 ## Hobbies & Other Interests
 
-- 💻 General interest in modern trends in Tech (Mobile devices, Computers, Software)
-- ⌨ Building custom PCs and mechanical keyboards
-- 🎲 Games: board-, card-, and video-
-- 🎮 Esports
+- 💻  General interest in modern trends in Tech (Mobile devices, Computers, Software)
+- ⌨  Building custom PCs and mechanical keyboards
+- ✈️  Travelling - 
+- 🎲  Games: board-, card-, and video-
+- 🎮  Esports
