@@ -45,16 +45,13 @@ Taking this a step further, a goal of mine would be to look into mentoring and h
 During my time at both Makers and Buzz Radar, I spent extensive time testing and troubleshooting hardware. That allowed me to learn more about technology I was using but also meant that I would be able to aid with any other issues like this in the future.
 In the past, I attended CES in Las Vegas to provide both hardware and software troubleshooting support to the team and with my understanding of code, I was able to troubleshoot more software related issues onsite and provide tangible and concise information back to the developers back in the UK so that they could repair the issue remotely.
 
-[A brief introduction into Buzz Radar](https://youtu.be/OZNPuzuDw8Q)
+
 
 #### Client Support, Training and Mentoring
 
 My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare. <br>
 These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required. <br> <br>
 Using the skills and knowledge I acquired in my years of customer support and previous teaching experience has allowed me to pick up mentoring skills. I would like to see this continue to grow deep into my software development career.
-
-
-[Makers Environment and Support](https://youtu.be/SxauFp4NKOM)
 
 <br>
 
@@ -82,13 +79,10 @@ Software development with some Computer Science fundamentals: **PC Architecture*
 The degree also consisted of:
 
 - Product/User design and development
-  - Product/Market research
-  - User modeling
-  - Storyboarding
+  - Product/Market research, user modeling and storyboarding
 
 - Film and TV production 
-  - Sound and psychoacoustics
-  - Broadcast media and webcasting
+  - Sound and psychoacoustics, broadcast media and webcasting
 
 I was also part of the video games and animation Society during this time.
 
@@ -104,11 +98,11 @@ Customer support associate for all initial enquiries through phone, email or off
 - Supporting existing students through face-to-face interaction or through support related channels such as Slack.
 - Creating, editing and managing front end support videos and written content.
   - Responsible for rebuilding and facilitating the event streaming and recording infrastructure for the marketing team (and wider business) which is then broadcasted at a wide scale using **Facebook Live**.
-  - Additional tools such as **Gimp**, **Open Broadcaster** & **DaVinci Resolve** are used for creating and editing assets as well as streaming live content to a wider audience.
 - Supporting team members for company wide events that are held both internally & externally.
 - Aiding the Marketing team with ideas and plans for customer interaction through channels such as social and blogs.
   - Using tools such as **Hubspot**, **Groove** and **Google Business Suite** to streamline customer and student communication.
 
+[Makers Environment and Support](https://youtu.be/SxauFp4NKOM)
 
 ### Buzz Radar (2016 to 2018)   
 #### *Customer Support Champion*  
@@ -121,6 +115,7 @@ Customer support manager and support lead for all bespoke Buzz Radar related pro
 - Supporting the internal development team with bug fixes as well as suggesting design elements ideas that suit the needs of the customers.
 - Supporting the development team with testing of new products and features during design and development phase of the SaaS products.
 
+[A brief introduction into Buzz Radar](https://youtu.be/IbD30yOmwu4)
 <br>
 
 ## Hobbies & Other Interests
